@@ -1,4 +1,10 @@
-## Hi there 👋
+"""
+     ___.           ______         
+     \_ |__ ___.__./  __  \  ____  
+      | __ <   |  |>      <_/ __ \ 
+      | \_\ \___  /   --   \  ___/ 
+ _____|___  / ____\______  /\___  >
+/_____/   \/\/           \/     \/ """
 
 <!--
 **by8e/by8e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
